@@ -1,0 +1,35 @@
+cpp_ex1
+nadav366
+205457534
+######
+
+The software consists of two objects -
+Object field which is a number field. It contains its field base and exponent.
+Object that is a number in a field containing a field and the number value.
+
+Field class:
+    The class can return all the information about the field.
+    Check if a number is prime.
+    Find a maximum common divisor for two numbers.
+    Create a new number in the field.
+
+Numbering class -
+    The class can return all the information about the number.
+    Return the number to primary entities and print them out.
+    Check if the number is prime.
+
+*************************************************
+Exercise Details-
+
+Using familiar algorithms-
+Software Execution Use three familiar algorithms:
+    * Euclid's algorithm for finding a maximum common divisor for two numbers.
+    * Experimental and wonder algorithm for Direct Search Factorization.
+    * rho Pollard's algorithm for finding a number factor
+
+More exercise details-
+    * Exercising a variety of operators for each object, helping to perform different
+        actions on the objects (such as realizing all algorithms)
+    * Using private methods to not allow a user of a header file to use auxiliary functions
+        directly
+
